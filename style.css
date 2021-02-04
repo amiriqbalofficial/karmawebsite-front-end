@@ -1,0 +1,379 @@
+
+/*dfdsfdsadsaddsadsasasdadaddsadadsa*/
+@media only screen and (max-width: 480px)
+		  {
+		  	
+        .karma-5
+  {
+    margin-left:50px;
+   
+  }
+		  	.hr-1
+		  	{
+		  		width: 300px;
+		  	}
+
+		  	}
+/* On screens that are 600px or less, set the background color to olive */
+
+
+
+.body
+{
+  overflow-x: hidden:
+}
+.btn
+{
+	border-radius: 4px;
+	width: 130px;
+	background-color: rgb(0,178,226);
+}
+.nav-link
+{
+	font-size: 15px;
+	font-weight: 500;
+	color: gray;
+}
+
+.navbar
+{
+	box-shadow: 0px 2px 7px gray;
+}
+
+.custom-toggler.navbar-toggler 
+{
+    /*border-color:blue;*/
+}
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='red' stroke-width='4' stroke-linecap='round' stroke-miterlimit='20' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+/*.navbar-toggler-icon
+{
+  border:1px solid black;
+}*/
+
+.btn-1
+{
+	width: 200px;
+	    background-color:rgb(0,178,226);
+	        border: 1px solid #00b2e2;
+	        height: 60px;
+}
+
+.kamra-img1
+{
+	width: 800px;
+    height: auto;
+    margin-top: 80px;
+}
+
+.phara-1
+{
+	font-size: 25px;
+	font-weight: 400;
+	font-family: Apercu, Arial, sans-serif;
+	margin-top: 200px;
+	position: absolute;
+}
+
+.button-2
+{
+	width: 200px;
+	    background-color:rgb(0,178,226);
+	        border: 1px solid #00b2e2;
+	        height: 60px;
+	        margin-top: 360px;
+	        margin-left: 40px;	
+}
+
+
+
+
+
+    h1
+    {
+    	font-family: "Lexia Ad", Arial, sans-serif;
+    font-size: 46px;
+    font-weight: 900;
+    line-height: 0.85em;
+    text-transform: uppercase;
+    margin-top: 350px;
+    color: #0e2f3c;
+    /*position: absolute;*/
+
+    }
+
+    .karma-5
+    {
+    	width: 250px;
+    	margin-left: 500px;
+    	margin-top: 30px;
+    }
+
+    .phara-3
+    {
+    	font-size: 20px;
+    	color: #4c5058;
+    	line-height: 33px;
+    	font-weight: 400;
+    	font-family: arial;
+    }
+
+    .headingtext-4
+    {
+    	    font-family: "Apercu", Arial, sans-serif;
+    font-size: 19px;
+    font-weight: bold;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-family: #4c5058;
+    color: rgb(76,80,88);
+    }
+
+.fa-check
+{
+	color: rgb(53,194,232);
+	
+}
+
+.karma-img2
+{
+	width: 1100px;
+	
+}
+
+.phara-4
+{
+	font-family: "Apercu", Arial, sans-serif;
+    font-size: 19px;
+    font-weight: normal;
+    line-height: 1.5em;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.ul-1 a
+{
+	list-style: none;
+    font-family: "Apercu", Arial, sans-serif;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 1.5em;
+    text-decoration:none;
+    color: rgb(0,178,226);
+}
+
+.ul-1 a:hover
+{
+  color:rgb(53,194,232);
+}
+
+.ul-2 a
+{
+  color:rgb(136,142,152);
+  font-weight: normal;
+    line-height: 1.5em;
+    font-size: 13px;
+}
+.ul-2 a:hover
+{
+  color: rgb(76,80,88);
+  text-decoration: none;
+}
+.button-5
+{
+  width: 300px;
+  margin-top: 20px;
+}
+
+.navigation-bar a:hover
+{
+  color: rgb(0,178,226);
+}
+
+
+
+
+/*Media Queries*/
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .karma7
+  {
+    margin-top: 20px;
+  }
+
+ .karma-5
+  {
+    margin-left: 170px;
+   
+  }
+  .div-row1
+  {
+    height: 310px;
+    margin-top: 20px;
+    width: 330px;
+    /*margin-left: 10px;*/
+  }
+  .phara-1 
+  {
+    color: red;
+    margin-top: 30px;
+    /*background-color: orange;*/
+  }
+
+  .button-2
+  {
+    margin-top: 240px;
+  }
+
+  .button-5
+  {
+  margin-left: -400px;
+   width: 150px;
+   position: absolute; 
+  }
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  .ul-1
+  {
+  	margin-top: 200px;
+  }
+
+  .button-6
+  {
+   margin-bottom: 30px;
+   margin-left: 15px;
+
+  }
+  .karma-6
+  {
+  	margin-top: -20px;
+  }
+
+  .div-row1
+  {
+  	height: 350px;
+  	margin-top: 20px;
+  	width: 330px;
+  	margin-left: 10px;
+  }
+
+  .phara-1
+{
+  font-size: 18px;
+  font-weight: 400;
+  font-family: Apercu, Arial, sans-serif;
+  margin-top: 200px;
+  /*margin-left: -20px;*/
+}
+
+  
+
+
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+	.phara-1 
+	{
+		color: red;
+		margin-top: 30px;
+	}
+
+	.button-2
+	{
+		margin-top: 240px;
+	}
+
+	.headingtext-1
+	{
+		margin-left: : -30px;
+		color: black;
+		font-size: 30px;
+	}
+
+  .karma-5
+  {
+    margin-left: 20px;
+   
+  }
+
+.background-img2
+{
+  background-color: green;
+	}
+
+
+}
+@media only screen and (max-width: 280px)
+{
+ .karma-5
+  {
+    margin-left: 10px;
+   
+  }
+
+  .aamir
+  {
+    margin-top: 0px;
+  }
+}
+/*media queries ended */
